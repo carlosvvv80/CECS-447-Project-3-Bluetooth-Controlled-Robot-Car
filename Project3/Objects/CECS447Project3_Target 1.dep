@@ -1,0 +1,14 @@
+Dependencies for Project 'CECS447Project3', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\UART.c)(0x62534DE1)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Users\Carlos\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="536" -DTM4C123GH6PM-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6026047E)
+I (tm4c123gh6pm.h)(0x6238FF0D)
+I (UART.h)(0x624A8F70)
+F (.\startup.s)(0x6238FF0D)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Users\Carlos\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 536" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\tm4c123gh6pm.h)(0x6238FF0D)()
+F (.\UART.h)(0x624A8F70)()
+F (.\RobotCar.c)(0x625349DB)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Users\Carlos\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="536" -DTM4C123GH6PM-o .\objects\robotcar.o --omf_browse .\objects\robotcar.crf --depend .\objects\robotcar.d)
+I (tm4c123gh6pm.h)(0x6238FF0D)
+I (UART.h)(0x624A8F70)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6026047E)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x6026047E)
