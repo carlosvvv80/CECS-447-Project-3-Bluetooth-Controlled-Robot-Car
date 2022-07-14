@@ -3,7 +3,7 @@
 // April 11 2022
 // RobotCar.c
 // Main program for robot car
-// Uses UART to recrive input from bluetooth terminal
+// Uses UART to receive input from bluetooth terminal
 // PWM used to control duty cycle of DC motors
 
 // Header files 
